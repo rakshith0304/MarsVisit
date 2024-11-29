@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Navhead from './components/navhead'
+import Navhead from './components/Navhead'
 
 function App() {
   const [count, setCount] = useState(0)
