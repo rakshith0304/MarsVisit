@@ -4,6 +4,8 @@ The Multi-Stage Mars Visit Application Form is a web-based project that allows u
 
 The project features navigation between stages, input validation, and a final submission step with a success message.
 
+To get back to main page click on the Mars Visit label on top left.
+
 ## Tech Stack
 Frontend Framework: React.js
 Styling: Tailwind CSS
