@@ -10,6 +10,7 @@ Styling: Tailwind CSS
 Routing: React Router
 
 ## Live link
+https://mellifluous-mermaid-5d496c.netlify.app/
 
 
 ## Installation and Setup
