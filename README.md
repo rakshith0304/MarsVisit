@@ -20,6 +20,7 @@ https://mellifluous-mermaid-5d496c.netlify.app/
 Step 1: Clone Repo
 
 git clone https://github.com/rakshith0304/MarsVisit
+
 cd MarsVisit
 
 Step 2: Install dependencies
